@@ -1,0 +1,32 @@
+2022-07-20 10:28:24,948 :: INFO -- Watching for file changes with StatReloader
+2022-07-20 10:28:40,445 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:28:40,445 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:28:40,490 :: WARNING -- Not Found: /accounts/login/assets/favicon.ico
+2022-07-20 10:28:40,490 :: WARNING -- Not Found: /accounts/login/assets/favicon.ico
+2022-07-20 10:28:51,740 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:28:51,740 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:29:08,290 :: WARNING -- Not Found: /login/
+2022-07-20 10:29:08,290 :: WARNING -- Not Found: /login/
+2022-07-20 10:29:08,310 :: WARNING -- Not Found: /favicon.ico
+2022-07-20 10:29:08,310 :: WARNING -- Not Found: /favicon.ico
+2022-07-20 10:29:52,019 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:29:52,019 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:29:52,030 :: WARNING -- Not Found: /sign/logout/assets/favicon.ico
+2022-07-20 10:29:52,030 :: WARNING -- Not Found: /sign/logout/assets/favicon.ico
+2022-07-20 10:30:08,572 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:30:08,572 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:30:08,587 :: WARNING -- Not Found: /sign/signup/assets/favicon.ico
+2022-07-20 10:30:08,587 :: WARNING -- Not Found: /sign/signup/assets/favicon.ico
+2022-07-20 10:30:34,501 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:30:34,501 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:30:43,006 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:30:43,006 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:30:43,016 :: WARNING -- Not Found: /accounts/confirm-email/assets/favicon.ico
+2022-07-20 10:30:43,016 :: WARNING -- Not Found: /accounts/confirm-email/assets/favicon.ico
+2022-07-20 10:32:45,676 :: INFO -- Watching for file changes with StatReloader
+2022-07-20 10:32:46,886 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:32:46,886 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:32:56,814 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:32:56,814 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:33:14,659 :: WARNING -- Not Found: /static/css/styles.css
+2022-07-20 10:33:14,659 :: WARNING -- Not Found: /static/css/styles.css
